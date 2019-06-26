@@ -2,6 +2,7 @@ This boilerplate was bootstrapped with [Create React App](https://github.com/fac
 
 ## Additions
 
+* TypeScript
 * Code linting and formatting using Prettier and TSLint
 * Git hooks via Husky
 * Styled-components for component scoped styling
