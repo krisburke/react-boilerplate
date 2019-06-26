@@ -4,6 +4,8 @@ import * as serviceWorker from './utils/serviceWorker';
 
 import App from './app/App';
 
+import '@blueprintjs/core/lib/css/blueprint.css';
+import '@blueprintjs/icons/lib/css/blueprint-icons.css';
 import './assets/styles/index.css';
 
 ReactDOM.render(<App />, document.getElementById('root'));

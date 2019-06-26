@@ -2,12 +2,16 @@ This boilerplate was bootstrapped with [Create React App](https://github.com/fac
 
 ## Additions
 
-* TypeScript
-* Code linting and formatting using Prettier and TSLint
-* Git hooks via Husky
-* Styled-components for component scoped styling
+-   [TypeScript](https://github.com/microsoft/TypeScript)
+-   [styled-components](https://github.com/styled-components/styled-components)
+-   [Blueprint](https://github.com/palantir/blueprint)
+-   [Prettier](https://github.com/prettier/prettier)
+-   [TSLint](https://github.com/palantir/tslint)
+-   [Husky](https://github.com/typicode/husky)
 
-There will likely be additional libraries added in the future.
+And a few other libraries related to these.
+
+There may be additional libraries added in the future.
 
 ## Available Scripts
 
