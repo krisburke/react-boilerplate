@@ -1,4 +1,12 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This boilerplate was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Additions
+
+* Code linting and formatting using Prettier and TSLint
+* Git hooks via Husky
+* Styled-components for component scoped styling
+
+There will likely be additional libraries added in the future.
 
 ## Available Scripts
 
